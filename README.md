@@ -1,5 +1,6 @@
 # NodeJS Chat Application
-:de:
+[:de:](README_DE.md)
+
 This is a real-time chat app with a client-side companion. I've built this application to deepen my knowledge of JavaScript and NodeJS. 
 
 In this project I utilized SocketIO to establish a bidirectional and low-latency communication between the chat's browser client and ExpressJS-server.
