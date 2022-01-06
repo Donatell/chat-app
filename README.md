@@ -21,3 +21,4 @@ Features:
 *   Receive system messages
 *   Share own location
 
+This project has been deployed to Heroku: [Link](https://donat-chat-app.herokuapp.com/)
