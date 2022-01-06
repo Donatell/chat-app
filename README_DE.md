@@ -1,5 +1,5 @@
 # NodeJS-Chat-Anwendung
-[English :en:](./README.md)
+[English](./README.md)
 
 Dies ist eine Echtzeit-Chat-Anwendung mit einem clientseitigen Begleiter. Ich habe diese Anwendung entwickelt, um meine Kentnisse über JavaScript und NodeJS zu vertiefen.
 
