@@ -20,7 +20,7 @@ Features:
 *   Receive system messages
 *   Share own location
 
-## NodeJS-Chat-Anwendung
+# NodeJS-Chat-Anwendung
 
 Dies ist eine Echtzeit-Chat-Anwendung mit einem clientseitigen Begleiter. Ich habe diese Anwendung entwickelt, um meine Kentnisse über JavaScript und NodeJS zu vertiefen.
 
