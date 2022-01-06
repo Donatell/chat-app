@@ -15,5 +15,7 @@ Features:
 *   Create and join chat rooms
 *   Set up own username
 *   Text other users in the room
+*   Receive system messages
+*   Share own location
 
 Users can join different chat rooms and text each other.
