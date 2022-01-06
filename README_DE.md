@@ -20,3 +20,5 @@ Funktionen:
 *   Andere Benutzer im Raum anschreiben
 *   Empfangen von Systemnachrichten
 *   Eigenen Standort teilen
+
+Dieses Projekt wurde auf Heroku bereitgestellt: [Link](https://donat-chat-app.herokuapp.com/)
